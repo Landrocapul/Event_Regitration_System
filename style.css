@@ -116,7 +116,9 @@ tbody tr:hover { background-color: rgba(255, 193, 7, 0.2); }
 .message-info { background-color: #fff3cd; color: #856404; }
 .message-success { background-color: #d4edda; color: #155724; }
 .message-error { background-color: #f8d7da; color: #721c24; }
-
+.hidden {
+    display: none;
+}
 
 /*
 =================================================================
